@@ -1,0 +1,38 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding-left: 10px;
+ 
+}
+
+.profile{
+   height: 550px;
+   width: 400px;
+   background-color: rgb(243, 243, 243);
+   border-radius: 5%;
+   padding: 10px;
+   box-shadow: 2px 3px 10px rgb(148, 144, 144);
+   margin-right: 20px;
+}
+
+.centre{
+  display: block;
+  height: 150px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.para{
+  font-size: large;
+}
+
+.link{
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.container{
+  display: flex;
+}
+
